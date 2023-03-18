@@ -1,9 +1,0 @@
-# Changelog
-
-## Version: 0.0.1
-
-### Date: 12.03.2023
-
-#### Features
-
-- First version
