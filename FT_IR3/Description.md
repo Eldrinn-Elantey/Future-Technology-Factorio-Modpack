@@ -17,3 +17,5 @@ To expand the fleet of vehicles, you can use mods:
 There is a localization mod for them: [AAI Language Pack](https://mods.factorio.com/mod/AAI_Language_Pack)
 
 To automate the process of expanding the database, you can use the mod: [Recursive Blueprints+](https://mods.factorio.com/mod/rec-blue-plus)
+
+If there is a need to shift the ore vein, you can use the mod: [Ore Manager Fixed](https://mods.factorio.com/mod/ore-manager-fixed)
