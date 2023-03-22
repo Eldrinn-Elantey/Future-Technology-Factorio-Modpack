@@ -1,6 +1,6 @@
 {
     "name": "Future-Technology-Factorio-Modpack-IR3",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "title": "Future Technology: IR3",
     "author": "Eldrinn",
     "factorio_version": "1.1",
@@ -89,7 +89,6 @@
         "ResourcesScanner",
         "rusty-locale",
         "scootys-armor-swap",
-        "shield-projector",
         "show-max-underground-distance",
         "solar-calc",
         "some-autoresearch",
