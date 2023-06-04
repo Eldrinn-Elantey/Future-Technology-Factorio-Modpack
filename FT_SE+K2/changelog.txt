@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 05.06.2023
+  New mods:
+    - Advanced Centrifuge
+    - Cybersyn Combinator
+    - Milestones
+  Replaced мods:
+    - Landfill plus -> Simple Landfill Mining (In my opinion, only the possibility of mining is required. Simple Landfill Mining copes with this task better)
+  Removed mods:
+    - PlannerCore for 1.1 (Unused)
+---------------------------------------------------------------------------------------------------
 Version: 0.0.2
 Date: 19.03.2023
   Optional mods:
