@@ -1,3 +1,7 @@
+Version: 0.0.4
+Date: ??.??.????
+  Replaced мods:
+    - Stack Size Tooltip -> Extended Descriptions ⚡ (In addition to displaying the pack size, it adds additional information to objects and items)
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.3
 Date: 05.06.2023
