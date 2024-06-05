@@ -1,6 +1,8 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.4
 Date: XX.XX.XXXX
+  Replaced мods:
+    - Bob's Adjustable Inserters -> Quick Adjustable Inserters (In my opinion Quick Adjustable Inserters has more features and is more user friendly)
   Removed mods:
     - Simulation Helper (deprecated)
     - Bob's Locale Translations (Unused)
