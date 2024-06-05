@@ -1,14 +1,9 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.4
 Date: XX.XX.XXXX
-  New mods:
-    - Advanced Centrifuge
-    - Cybersyn Combinator
-    - Milestones
-  Replaced мods:
-    - Landfill plus -> Simple Landfill Mining (In my opinion, only the possibility of mining is required. Simple Landfill Mining copes with this task better)
   Removed mods:
     - Simulation Helper (deprecated)
+    - Bob's Locale Translations (Unused)
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.3
 Date: 05.06.2023
