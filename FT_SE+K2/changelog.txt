@@ -1,12 +1,9 @@
-Version: 0.0.4
-Date: ??.??.????
-  Replaced мods:
-    - Stack Size Tooltip -> Extended Descriptions ⚡ (In addition to displaying the pack size, it adds additional information to objects and items)
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.4
-Date: XX.XX.XXXX
+Date: 05.10.2024
   Replaced мods:
     - Bob's Adjustable Inserters -> Quick Adjustable Inserters (In my opinion Quick Adjustable Inserters has more features and is more user friendly)
+    - Stack Size Tooltip -> Extended Descriptions ⚡ (In addition to displaying the pack size, it adds additional information to objects and items)
   Removed mods:
     - Simulation Helper (deprecated)
     - Bob's Locale Translations (Unused)
