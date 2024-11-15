@@ -1,8 +1,8 @@
-# Future Technology: EI
+# Future Technology Inc: SE+K2
 
 ## Description
 
-The main mod of this build is [Exotic Industries](https://mods.factorio.com/mod/exotic-industries). Other mods have been added in order to expand the capabilities and opportunities not to affect the functions of Exotic Industries
+The main mod of this build is [Space Exploration](https://mods.factorio.com/mod/space-exploration) and [Krastorio 2](https://mods.factorio.com/mod/Krastorio2). Other mods have been added in order to expand the capabilities and not affect the functions of the main mods.
 
 ---
 

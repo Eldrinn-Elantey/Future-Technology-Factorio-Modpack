@@ -1,4 +1,4 @@
-# Future Technology: IR3
+# Future Technology Inc: IR3
 
 ## Description
 
