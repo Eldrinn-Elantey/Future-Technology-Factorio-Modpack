@@ -1,4 +1,48 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 17.11.2025
+  Changes:
+    - Updated to Factorio 2.0.
+  New mods:
+    - IPL - Inter Platform Logistics
+    - James' Electric Trains Plus
+    - Black Rubber Belts - Remastered
+  Replaced мods:
+    - Belt Balancer (Improved Performance) -> Belt Balancer 3 (Not updated to 2.0)
+    - Even Distribution -> Even Distribution Lite (A clean-room reimplementation of Even Distribution by raiguard)
+    - EvoGUI -> StatsGui (deprecated)
+    - Ghost Scanner 2 -> Ghost Scanner 4 (Not updated to 2.0)
+    - Repair Turrets by Quezler -> Repair Turret by Klonan (Not updated to 2.0)
+    - Squeak Through -> Squeak Through 2 (Not updated to 2.0)
+    - Stack Combinator -> Stack Combinator (Redux) (Not updated to 2.0)
+    - Task List -> Mission Tasks (More features for co-op)
+  Removed mods:
+    - Advanced Air Purification (Not updated to 2.0)
+    - AutoTrash (Deprecated in 2.0)
+    - Beautiful Bridge Railway (Deprecated in 2.0)
+    - Compakt circuit driver for stack combinator (Deprecated in 2.0)
+    - Dragon Industries - Nauvis Division (Not updated to 2.0)
+    - Dynamic Robot Queues
+    - Electric Train (Not updated to 2.0)
+    - Enhanced Map Colors (Not updated to 2.0)
+    - Equipment Grid Logistic Module (logiquipment Revived) (Not updated to 2.0)
+    - Extended Descriptions ⚡ (Not updated to 2.0)
+    - Factorio Standard Library (Not updated to 2.0)
+    - Factory Search (Deprecated in 2.0)
+    - Geothermal (Not updated to 2.0)
+    - Ghost On Water (Deprecated in 2.0)
+    - Multi-Product Recipe Details (Not updated to 2.0)
+    - Picker Dollies (Not updated to 2.0)
+    - Quality of Life research - Krastorio 2 (By: JATMN) (Not updated to 2.0)
+    - Quick Item Search (Not updated to 2.0)
+    - Reactor Interface Tweaked (Not updated to 2.0)
+    - Simple Landfill Mining (Deprecated in 2.0)
+    - Space Exploration Recycling Extras (Not updated to 2.0)
+    - Train Scaling (Not updated to 2.0)
+    - Train Upgrader (Not updated to 2.0)
+    - Water consumes pollution (Not updated to 2.0)
+    - Wret Belt Colors Fix (Not updated to 2.0)
+---------------------------------------------------------------------------------------------------
 Version: 0.0.4
 Date: 05.10.2024
   Replaced мods:
